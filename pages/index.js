@@ -11,7 +11,7 @@ export default function Home() {
       <main>
         <h1>Coming Soon-ish!</h1>
         <section>
-          <h2>Please deploy</h2>
+          <h2>Please deploy this site.</h2>
         </section>
       </main>
 
